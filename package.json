@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/lordcaramel/app_chat/issues"
   },
-  "homepage": "https://github.com/lordcaramel/app_chat#readme"
+  "homepage": "https://github.com/lordcaramel/app_chat#readme",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "socket.io": "^1.4.6"
+  }
 }
