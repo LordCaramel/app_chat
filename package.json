@@ -1,0 +1,19 @@
+{
+  "name": "app_chat",
+  "version": "1.0.0",
+  "description": "app chat by nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordcaramel/app_chat.git"
+  },
+  "author": "Ble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordcaramel/app_chat/issues"
+  },
+  "homepage": "https://github.com/lordcaramel/app_chat#readme"
+}
